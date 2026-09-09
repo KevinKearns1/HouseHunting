@@ -49,6 +49,126 @@ Modeled at 3.5% down, 6.0% FHA 30-yr, blended 2.4% property tax, landlord insura
 
 **Share of payment covered by tenant rent:** Duplex Tier 2 51% · Duplex Tier 1 49% · Triplex typical 65% · Triplex stretch 95% · Quadplex Tier 2 73%.
 
+## What it would take to pass the self-sufficiency test
+
+**Rule of thumb:** at 3.5% down and ~6.0% rate, a 3–4 unit property clears FHA's self-sufficiency test only when its total monthly rent roll is at least **~1.2% of the purchase price** — equivalently, price-per-unit needs to land around **80–85× the monthly rent-per-unit**, versus the 100–120× that's typical for a fully-priced turnkey property in these neighborhoods today.
+
+**Maximum purchase price that still passes, by rent per unit** — same columns as the scenario comparison above, so you can compare directly. Every row is the exact breakeven price (the test passes at $0 margin), so read "max price" as a ceiling to stay under, not a target to hit.
+
+*Triplex:*
+
+| Rent/unit | Max price | Max $/unit | Payment/mo | Tenant rent | Your share/mo | Cash needed | DTI |
+|---|---|---|---|---|---|---|---|
+| $1,000 (Tier 2) | $242,500 | $80,800 | $2,250 | $2,000 | $250 | $25,312 | Pass |
+| $1,200 (Tier 2) | $296,500 | $98,800 | $2,700 | $2,400 | $300 | $30,173 | Pass |
+| $1,400 (Tier 1) | $350,500 | $116,900 | $3,150 | $2,800 | $350 | $35,036 | Pass |
+| $1,600 (Tier 1) | $404,500 | $134,900 | $3,600 | $3,200 | $400 | $39,897 | Pass |
+
+*Quadplex:*
+
+| Rent/unit | Max price | Max $/unit | Payment/mo | Tenant rent | Your share/mo | Cash needed | DTI |
+|---|---|---|---|---|---|---|---|
+| $1,000 (Tier 2) | $327,500 | $81,900 | $3,000 | $3,000 | $0 | $33,102 | Pass |
+| $1,200 (Tier 2) | $400,000 | $99,900 | $3,600 | $3,600 | $0 | $39,585 | Pass |
+| $1,400 (Tier 1) | $472,000 | $118,000 | $4,200 | $4,200 | $0 | $46,067 | 50%-only |
+| $1,600 (Tier 1) | $544,000 | $136,000 | $4,800 | $4,800 | $0 | $52,550 | 50%-only |
+
+"Your share/mo" reads $0 at every quadplex breakeven — that's what "passes at exactly 75% of rent = PITI" means: the *other three* units' rent alone covers the payment. "50%-only" clears the 50% DTI ceiling (compensating factors) but not the standard 43%. Cash needed climbs fast at these prices — cross-check against the cash breakdown below before assuming you can swing it.
+
+Read the table as a ceiling: a Tier 2 triplex renting at $1,200/unit passes only below $296,500 — which is exactly why the "typical" $360,000 Tier 2 triplex above failed, and why the $300,000 stretch deal (under the $323,000 ceiling for $1,300/unit rent) passed.
+
+## Cutting the cash needed: assistance programs & seller concessions
+
+Down payment assistance (DPA) and seller-paid closing costs are both real and stackable — but they change *who pays*, not your DTI or the self-sufficiency math, and neither touches the FHA reserve requirement on 3–4 unit properties.
+
+**What "cash needed" is made of:**
+
+| Scenario | Down payment (3.5%) | Closing costs (~3%) | Prepaid escrow | FHA reserves (3–4 unit only) | Total |
+|---|---|---|---|---|---|
+| Duplex — Tier 2 ($260k) | $9,100 | $7,800 | $2,800 | — | $19,700 |
+| Duplex — Tier 1 ($360k) | $12,600 | $10,800 | $2,800 | — | $26,200 |
+| Triplex — stretch ($300k) | $10,500 | $9,000 | $2,800 | $8,186 | $30,486 |
+| Triplex — typical ($360k) | $12,600 | $10,800 | $2,800 | $9,686 | $35,886 |
+| Quadplex — Tier 2 ($460k) | $16,100 | $13,800 | $2,800 | $12,304 | $45,004 |
+
+Down payment and closing costs are one-time, negotiable-source costs. Reserves are different: FHA requires them to be **your own verified, seasoned funds** — DPA money and gift funds generally can't count toward reserves; you don't spend them, they just have to exist in your accounts at closing.
+
+**Lever 1 — Down payment assistance:**
+- **TDHCA "My First Texas Home"** — up to 5% of the loan amount as a grant or 0%-interest forgivable second lien, more than enough to cover a 3.5% down payment. Program materials explicitly list **duplexes with half owner-occupancy** as eligible. Income limit for a 1–2 person household is roughly $97,000 in most non-targeted Texas counties — your $87,315 likely clears it, but confirm the exact Bexar County figure with a participating lender. **Likely usable — duplex only.**
+- **TSAHC (Homes for Texas Heroes / Home Sweet Texas)** — similar 5%-of-loan grant/forgivable lien, but published eligible property types are single-family, condo, townhome, and manufactured — duplex is notably absent. **Probably not for 2–4 unit — verify directly.**
+- **City of San Antonio HIP 120** — up to $15,000, capped at 80–120% of area median income (roughly $50,000–$74,000/year for a one-person household). Your income exceeds that. **Not eligible.**
+- No program reviewed here confirms eligibility for triplex/quadplex; most bond-funded DPA programs restrict assistance to 1–2 unit primary residences by design. Treat DPA as a **duplex-only** lever until a lender confirms otherwise for a specific 3–4 unit deal.
+
+**Lever 2 — Seller concessions:** FHA allows a seller to pay up to **6% of the sale price** toward closing costs and prepaid escrow (never the down payment, never more than actual costs). This is negotiated into the contract, not a program you apply for. San Antonio's 2–4 unit segment is currently buyer-favorable — listings averaging well over 100 days on market, with sellers offering concessions averaging roughly $11,000–$12,000 per deal. At every price point here, a full closing-costs-plus-prepaids ask stays comfortably under the 6% cap; the real constraint is what a given seller will agree to.
+
+**What cash-to-close actually becomes:**
+
+| Scenario | Cash (baseline) | + seller concession | + DPA | + Both |
+|---|---|---|---|---|
+| Duplex — Tier 2 ($260k) | $19,700 | $9,100 | $10,600 | **$0** |
+| Duplex — Tier 1 ($360k) | $26,200 | $12,600 | $13,600 | **$0** |
+| Triplex — stretch ($300k)* | $30,486 | $18,686 | $19,986 | $8,186 |
+| Triplex — typical ($360k)* | $35,886 | $22,286 | $23,286 | $9,686 |
+| Quadplex — Tier 2 ($460k)* | $45,004 | $28,404 | $28,904 | $12,304 |
+
+*The "+ DPA" and "+ Both" columns for triplex/quadplex assume a program agrees to fund a 3–4 unit deal, which is unconfirmed — and even fully stacked, the FHA reserve requirement remains, since reserves must be your own seasoned funds.
+
+**The real takeaway:** stacking a TDHCA DPA grant with a negotiated seller concession can plausibly take a duplex purchase to **near $0 cash to close**, freeing your entire $25–30k for the repair/reserve fund you actually wanted. On a triplex or quadplex, both levers still help, but the mandatory reserve holds most of the cash requirement in place regardless.
+
+**How likely is this, really?**
+- **Seller concessions: likely, not guaranteed.** Current market conditions favor asking — 2–3% is a realistic opening ask on most listings, with the full 3–4.5% needed here achievable on a property that's sat a while.
+- **TDHCA DPA on a duplex: plausible, needs lender confirmation.** Income appears to clear the limit and duplexes are explicitly named eligible, but purchase price limits, the exact Bexar County income figure, and lender participation all need verifying before counting on it.
+- **Any DPA on a triplex/quadplex: unconfirmed.** Ask directly; don't assume.
+
+## Case studies: listings evaluated
+
+### 7519 Windsor Oaks
+
+A live listing sent for evaluation: a fourplex at 7519 Windsor Oaks, San Antonio, TX 78239 — $460,000 (MLS #1996828, price just cut from $470,000). It's outside the six neighborhoods above, but still north of Hwy 90 and inside Loop 1604 (Northeast San Antonio, between Loop 410 and 1604, near Fort Sam Houston/Windcrest) — fair game.
+
+**The property:** 4,442 sqft, built 1985, fully renovated. 2× 3bd/2ba + 2× 2bd/1ba, all four units currently vacant. Estimated market rent from 78239 zip comps: ~$1,500/mo for the 3bd/2ba units, ~$1,250/mo for the 2bd/1ba units.
+
+**Running the numbers (you occupy a 2bd/1ba unit, the cheaper unit to give up):**
+
+| Metric | Result |
+|---|---|
+| Full PITI + MIP payment | $4,101/mo |
+| Self-sufficiency requirement (75% × all 4 units' rent) | $4,125/mo needed — you have $4,125 |
+| Self-sufficiency test | **Passes — by $24/mo** |
+| DTI, both 43% and 50% | Passes comfortably |
+| Rent from the 3 tenant units | $4,250/mo (2×$1,500 + 1×$1,250) |
+| Your monthly position once fully leased | **+$149/mo in your pocket** |
+| Cash needed (baseline, cash only) | $45,004 |
+| Cash needed (+ seller concession, per above) | $28,404 |
+
+**Read the $24/mo margin correctly: this is not a comfortable pass.** It's within the noise of my rent estimate. If the FHA appraiser's actual Form 1007 rent schedule comes in even $10–15/unit under my $1,250/$1,500 numbers, this property fails the self-sufficiency test outright and becomes ineligible for FHA financing at this price — no amount of personal income fixes that. Two things make this riskier than a typical case: all four units are vacant (no signed leases to anchor the appraiser's opinion), and "fully renovated" usually supports rent at the higher end of a range, but that's the appraiser's call, not mine.
+
+**What this means practically:**
+- Get a real rent opinion before writing an offer — ask an agent for actual comparable rentals in the immediate Windsor Oaks/78239 area, not the zip-wide range used here.
+- Vacancy risk is real and immediate: day one, the full $4,101/mo is owed alone until all three units are leased. Budget for a normal 30–60 day lease-up per unit, not the $149/mo surplus above.
+- The recent $10k price cut is a lever — a seller who just cut price could plausibly agree to a further reduction or a closing-cost concession.
+- Fully renovated cuts FHA appraisal risk (minimum property standards trip up a lot of older multi-unit deals on paint/roofing/safety items), but confirm with an independent inspection rather than the listing description.
+- **Bottom line:** this is the most promising real listing evaluated so far — it clears every test on paper. It's also the one where getting real numbers (rent schedule, condition, seller motivation) before offering matters most, because the margin for error is thin.
+
+### Four more listings
+
+**1409 W Woodlawn Ave is not FHA-eligible — this isn't a paperwork detail.** It's an 8-unit apartment building (16 bed / 8 bath; asking price appears to be $580,000–$789,000 depending on which listing snapshot is current, worth confirming directly). FHA owner-occupant loans cap out at **4 units, by statute** — no exception for occupying one unit, no amount of seller concession changes it, regardless of what any listing description claims about "FHA welcome." Buying an 8-unit building means a commercial/small-apartment loan instead: typically 20–25%+ down (roughly **$116,000–$197,000** cash, not the ~$25k range this plan is built around), underwritten on the building's income rather than yours. Not reachable right now — double-check the intended link before going further on this one.
+
+| Listing | Type | Price | Actual/observed rent | Self-sufficiency | Cash needed | Verdict |
+|---|---|---|---|---|---|---|
+| 1409 W Woodlawn Ave | 8-plex | $580k–789k* | n/a | N/A — not FHA-eligible | $116k–197k+ (commercial loan) | Not viable for this plan |
+| 429 Zachry Dr | Duplex | $174,990 | $999 + $1,050 (leased thru 2027) | — | $14,174 | Pending; can't occupy until leases end |
+| 1701 Dawson St | Triplex | $295,000 | $700–900/unit | Fail | $30,036 | In-place rent too low to pass |
+| 1524 W Woodlawn Ave | 4-plex | $349,500 | $850–1,100/unit observed | Fail at current rent / Pass if $1,050–1,150 | $35,061 (~$21,776 w/ concession) | Worth pursuing |
+
+*Two different sources gave two different asking prices for 1409 — confirm the current one with the listing agent if pursuing it under different financing, though the unit count disqualifies FHA either way.
+
+**429 Zachry Dr — occupancy conflict, not a numbers problem.** Listed pending (likely already under contract with someone else). Even if it weren't: both units are under existing leases through mid-2027, and FHA requires occupancy within about 60 days of closing. You'd be buying a fully-tenanted rental with no path to living there for a year-plus — not a fit for this plan regardless of price or pending status.
+
+**1701 Dawson St — the property's economics, not your qualifying.** DTI is comfortable and cash needed (~$30,000) is in range, but the "seasoned tenants" are paying $700–900/unit — the triplex needs roughly $1,200/unit in rent to clear the self-sufficiency test, nearly double what's actually being collected. That's the property failing on its own economics, not something your income or credit can fix. Worth a pass unless the appraiser's independent market-rent opinion comes in well above these in-place rents, which isn't something to assume going in.
+
+**1524 W Woodlawn Ave — your best lead here.** Recently remodeled 4-plex (refinished hardwood, new tile, new windows) in the Woodlawn Lake area. Currently observed rents ($850–$1,100/unit) put it just under the self-sufficiency bar, but a genuine remodel-supported bump to $1,050–1,150/unit clears it with room to spare. DTI passes easily either way. A seller concession covering closing costs and prepaids (comfortably under the 6% FHA cap at this price) brings cash-to-close from $35,061 down to roughly **$21,776** — within reach on your timeline. Also worth a direct call to the listing agent: this one advertises **seller financing available**, a completely separate structure from FHA that could change this math again.
+
 ## Where to look: Tier 1 vs. Tier 2
 
 All neighborhoods below sit north of Hwy 90 and inside Loop 1604.
@@ -79,10 +199,11 @@ FHA requires occupying the property as your primary residence, typically for at 
 ## 12-month checklist
 
 - **Now** — Get pre-approved with 2–3 FHA lenders who specialize in 2–4 unit purchases; ask about their self-sufficiency test process and typical closing costs.
+- **Now** — Ask each lender to confirm TDHCA "My First Texas Home" eligibility on a duplex given your exact income, and whether any DPA program in their toolkit extends to 3–4 unit properties.
 - **Now** — Interview buyer's agents on 2–4 unit FHA track record; set up saved searches.
 - **Ongoing** — Keep credit card statement balances near $0 and pay the student loan on time — both protect the DTI room this plan depends on.
 - **By spring 2027** — Confirm the mechanics of the $15k from your mother with your lender: FHA treats gift funds and family loans differently for qualifying purposes; get the paperwork (gift letter or promissory note) sorted early.
-- **By June 2027** — Target $28,000–32,000 cash on hand — the number that unlocks either a comfortable Tier 1 duplex or a shot at the triplex stretch deal.
+- **By June 2027** — Target $28,000–32,000 cash on hand — the number that unlocks either a comfortable Tier 1 duplex or a shot at the triplex stretch deal, less if DPA and seller concessions come through.
 - **On any listing** — Pull the actual rent roll or a rent estimate and check it against this model's DTI and self-sufficiency thresholds before offering.
 
 ## Modeling assumptions
