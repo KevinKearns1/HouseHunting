@@ -49,6 +49,64 @@ Modeled at 3.5% down, 6.0% FHA 30-yr, blended 2.4% property tax, landlord insura
 
 **Share of payment covered by tenant rent:** Duplex Tier 2 51% · Duplex Tier 1 49% · Triplex typical 65% · Triplex stretch 95% · Quadplex Tier 2 73%.
 
+## What it would take to pass the self-sufficiency test
+
+**Rule of thumb:** at 3.5% down and ~6.0% rate, a 3–4 unit property clears FHA's self-sufficiency test only when its total monthly rent roll is at least **~1.2% of the purchase price** — equivalently, price-per-unit needs to land around **80–85× the monthly rent-per-unit**, versus the 100–120× that's typical for a fully-priced turnkey property in these neighborhoods today.
+
+**Maximum purchase price that still passes, by rent per unit:**
+
+| Rent / unit | Triplex — max price | Triplex — max $/unit | Quadplex — max price | Quadplex — max $/unit |
+|---|---|---|---|---|
+| $1,000 (Tier 2) | $242,000 | $80,700 | $328,000 | $82,000 |
+| $1,200 (Tier 2) | $296,000 | $98,700 | $400,000 | $100,000 |
+| $1,400 (Tier 1) | $351,000 | $117,000 | $472,000 | $118,000 |
+| $1,600 (Tier 1) | $405,000 | $135,000 | $544,000 | $136,000 |
+
+Read it as a ceiling: a Tier 2 triplex renting at $1,200/unit passes only below $296,000 — which is exactly why the "typical" $360,000 Tier 2 triplex above failed, and why the $300,000 stretch deal (under the $323,000 ceiling for $1,300/unit rent) passed.
+
+## Cutting the cash needed: assistance programs & seller concessions
+
+Down payment assistance (DPA) and seller-paid closing costs are both real and stackable — but they change *who pays*, not your DTI or the self-sufficiency math, and neither touches the FHA reserve requirement on 3–4 unit properties.
+
+**What "cash needed" is made of:**
+
+| Scenario | Down payment (3.5%) | Closing costs (~3%) | Prepaid escrow | FHA reserves (3–4 unit only) | Total |
+|---|---|---|---|---|---|
+| Duplex — Tier 2 ($260k) | $9,100 | $7,800 | $2,800 | — | $19,700 |
+| Duplex — Tier 1 ($360k) | $12,600 | $10,800 | $2,800 | — | $26,200 |
+| Triplex — stretch ($300k) | $10,500 | $9,000 | $2,800 | $8,186 | $30,486 |
+| Triplex — typical ($360k) | $12,600 | $10,800 | $2,800 | $9,686 | $35,886 |
+| Quadplex — Tier 2 ($460k) | $16,100 | $13,800 | $2,800 | $12,304 | $45,004 |
+
+Down payment and closing costs are one-time, negotiable-source costs. Reserves are different: FHA requires them to be **your own verified, seasoned funds** — DPA money and gift funds generally can't count toward reserves; you don't spend them, they just have to exist in your accounts at closing.
+
+**Lever 1 — Down payment assistance:**
+- **TDHCA "My First Texas Home"** — up to 5% of the loan amount as a grant or 0%-interest forgivable second lien, more than enough to cover a 3.5% down payment. Program materials explicitly list **duplexes with half owner-occupancy** as eligible. Income limit for a 1–2 person household is roughly $97,000 in most non-targeted Texas counties — your $87,315 likely clears it, but confirm the exact Bexar County figure with a participating lender. **Likely usable — duplex only.**
+- **TSAHC (Homes for Texas Heroes / Home Sweet Texas)** — similar 5%-of-loan grant/forgivable lien, but published eligible property types are single-family, condo, townhome, and manufactured — duplex is notably absent. **Probably not for 2–4 unit — verify directly.**
+- **City of San Antonio HIP 120** — up to $15,000, capped at 80–120% of area median income (roughly $50,000–$74,000/year for a one-person household). Your income exceeds that. **Not eligible.**
+- No program reviewed here confirms eligibility for triplex/quadplex; most bond-funded DPA programs restrict assistance to 1–2 unit primary residences by design. Treat DPA as a **duplex-only** lever until a lender confirms otherwise for a specific 3–4 unit deal.
+
+**Lever 2 — Seller concessions:** FHA allows a seller to pay up to **6% of the sale price** toward closing costs and prepaid escrow (never the down payment, never more than actual costs). This is negotiated into the contract, not a program you apply for. San Antonio's 2–4 unit segment is currently buyer-favorable — listings averaging well over 100 days on market, with sellers offering concessions averaging roughly $11,000–$12,000 per deal. At every price point here, a full closing-costs-plus-prepaids ask stays comfortably under the 6% cap; the real constraint is what a given seller will agree to.
+
+**What cash-to-close actually becomes:**
+
+| Scenario | Cash (baseline) | + seller concession | + DPA | + Both |
+|---|---|---|---|---|
+| Duplex — Tier 2 ($260k) | $19,700 | $9,100 | $10,600 | **$0** |
+| Duplex — Tier 1 ($360k) | $26,200 | $12,600 | $13,600 | **$0** |
+| Triplex — stretch ($300k)* | $30,486 | $18,686 | $19,986 | $8,186 |
+| Triplex — typical ($360k)* | $35,886 | $22,286 | $23,286 | $9,686 |
+| Quadplex — Tier 2 ($460k)* | $45,004 | $28,404 | $28,904 | $12,304 |
+
+*The "+ DPA" and "+ Both" columns for triplex/quadplex assume a program agrees to fund a 3–4 unit deal, which is unconfirmed — and even fully stacked, the FHA reserve requirement remains, since reserves must be your own seasoned funds.
+
+**The real takeaway:** stacking a TDHCA DPA grant with a negotiated seller concession can plausibly take a duplex purchase to **near $0 cash to close**, freeing your entire $25–30k for the repair/reserve fund you actually wanted. On a triplex or quadplex, both levers still help, but the mandatory reserve holds most of the cash requirement in place regardless.
+
+**How likely is this, really?**
+- **Seller concessions: likely, not guaranteed.** Current market conditions favor asking — 2–3% is a realistic opening ask on most listings, with the full 3–4.5% needed here achievable on a property that's sat a while.
+- **TDHCA DPA on a duplex: plausible, needs lender confirmation.** Income appears to clear the limit and duplexes are explicitly named eligible, but purchase price limits, the exact Bexar County income figure, and lender participation all need verifying before counting on it.
+- **Any DPA on a triplex/quadplex: unconfirmed.** Ask directly; don't assume.
+
 ## Where to look: Tier 1 vs. Tier 2
 
 All neighborhoods below sit north of Hwy 90 and inside Loop 1604.
@@ -79,10 +137,11 @@ FHA requires occupying the property as your primary residence, typically for at 
 ## 12-month checklist
 
 - **Now** — Get pre-approved with 2–3 FHA lenders who specialize in 2–4 unit purchases; ask about their self-sufficiency test process and typical closing costs.
+- **Now** — Ask each lender to confirm TDHCA "My First Texas Home" eligibility on a duplex given your exact income, and whether any DPA program in their toolkit extends to 3–4 unit properties.
 - **Now** — Interview buyer's agents on 2–4 unit FHA track record; set up saved searches.
 - **Ongoing** — Keep credit card statement balances near $0 and pay the student loan on time — both protect the DTI room this plan depends on.
 - **By spring 2027** — Confirm the mechanics of the $15k from your mother with your lender: FHA treats gift funds and family loans differently for qualifying purposes; get the paperwork (gift letter or promissory note) sorted early.
-- **By June 2027** — Target $28,000–32,000 cash on hand — the number that unlocks either a comfortable Tier 1 duplex or a shot at the triplex stretch deal.
+- **By June 2027** — Target $28,000–32,000 cash on hand — the number that unlocks either a comfortable Tier 1 duplex or a shot at the triplex stretch deal, less if DPA and seller concessions come through.
 - **On any listing** — Pull the actual rent roll or a rent estimate and check it against this model's DTI and self-sufficiency thresholds before offering.
 
 ## Modeling assumptions
