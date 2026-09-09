@@ -120,7 +120,9 @@ Down payment and closing costs are one-time, negotiable-source costs. Reserves a
 - **TDHCA DPA on a duplex: plausible, needs lender confirmation.** Income appears to clear the limit and duplexes are explicitly named eligible, but purchase price limits, the exact Bexar County income figure, and lender participation all need verifying before counting on it.
 - **Any DPA on a triplex/quadplex: unconfirmed.** Ask directly; don't assume.
 
-## Case study: 7519 Windsor Oaks
+## Case studies: listings evaluated
+
+### 7519 Windsor Oaks
 
 A live listing sent for evaluation: a fourplex at 7519 Windsor Oaks, San Antonio, TX 78239 — $460,000 (MLS #1996828, price just cut from $470,000). It's outside the six neighborhoods above, but still north of Hwy 90 and inside Loop 1604 (Northeast San Antonio, between Loop 410 and 1604, near Fort Sam Houston/Windcrest) — fair game.
 
@@ -147,6 +149,25 @@ A live listing sent for evaluation: a fourplex at 7519 Windsor Oaks, San Antonio
 - The recent $10k price cut is a lever — a seller who just cut price could plausibly agree to a further reduction or a closing-cost concession.
 - Fully renovated cuts FHA appraisal risk (minimum property standards trip up a lot of older multi-unit deals on paint/roofing/safety items), but confirm with an independent inspection rather than the listing description.
 - **Bottom line:** this is the most promising real listing evaluated so far — it clears every test on paper. It's also the one where getting real numbers (rent schedule, condition, seller motivation) before offering matters most, because the margin for error is thin.
+
+### Four more listings
+
+**1409 W Woodlawn Ave is not FHA-eligible — this isn't a paperwork detail.** It's an 8-unit apartment building (16 bed / 8 bath; asking price appears to be $580,000–$789,000 depending on which listing snapshot is current, worth confirming directly). FHA owner-occupant loans cap out at **4 units, by statute** — no exception for occupying one unit, no amount of seller concession changes it, regardless of what any listing description claims about "FHA welcome." Buying an 8-unit building means a commercial/small-apartment loan instead: typically 20–25%+ down (roughly **$116,000–$197,000** cash, not the ~$25k range this plan is built around), underwritten on the building's income rather than yours. Not reachable right now — double-check the intended link before going further on this one.
+
+| Listing | Type | Price | Actual/observed rent | Self-sufficiency | Cash needed | Verdict |
+|---|---|---|---|---|---|---|
+| 1409 W Woodlawn Ave | 8-plex | $580k–789k* | n/a | N/A — not FHA-eligible | $116k–197k+ (commercial loan) | Not viable for this plan |
+| 429 Zachry Dr | Duplex | $174,990 | $999 + $1,050 (leased thru 2027) | — | $14,174 | Pending; can't occupy until leases end |
+| 1701 Dawson St | Triplex | $295,000 | $700–900/unit | Fail | $30,036 | In-place rent too low to pass |
+| 1524 W Woodlawn Ave | 4-plex | $349,500 | $850–1,100/unit observed | Fail at current rent / Pass if $1,050–1,150 | $35,061 (~$21,776 w/ concession) | Worth pursuing |
+
+*Two different sources gave two different asking prices for 1409 — confirm the current one with the listing agent if pursuing it under different financing, though the unit count disqualifies FHA either way.
+
+**429 Zachry Dr — occupancy conflict, not a numbers problem.** Listed pending (likely already under contract with someone else). Even if it weren't: both units are under existing leases through mid-2027, and FHA requires occupancy within about 60 days of closing. You'd be buying a fully-tenanted rental with no path to living there for a year-plus — not a fit for this plan regardless of price or pending status.
+
+**1701 Dawson St — the property's economics, not your qualifying.** DTI is comfortable and cash needed (~$30,000) is in range, but the "seasoned tenants" are paying $700–900/unit — the triplex needs roughly $1,200/unit in rent to clear the self-sufficiency test, nearly double what's actually being collected. That's the property failing on its own economics, not something your income or credit can fix. Worth a pass unless the appraiser's independent market-rent opinion comes in well above these in-place rents, which isn't something to assume going in.
+
+**1524 W Woodlawn Ave — your best lead here.** Recently remodeled 4-plex (refinished hardwood, new tile, new windows) in the Woodlawn Lake area. Currently observed rents ($850–$1,100/unit) put it just under the self-sufficiency bar, but a genuine remodel-supported bump to $1,050–1,150/unit clears it with room to spare. DTI passes easily either way. A seller concession covering closing costs and prepaids (comfortably under the 6% FHA cap at this price) brings cash-to-close from $35,061 down to roughly **$21,776** — within reach on your timeline. Also worth a direct call to the listing agent: this one advertises **seller financing available**, a completely separate structure from FHA that could change this math again.
 
 ## Where to look: Tier 1 vs. Tier 2
 
