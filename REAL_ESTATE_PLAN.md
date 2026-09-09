@@ -53,16 +53,29 @@ Modeled at 3.5% down, 6.0% FHA 30-yr, blended 2.4% property tax, landlord insura
 
 **Rule of thumb:** at 3.5% down and ~6.0% rate, a 3–4 unit property clears FHA's self-sufficiency test only when its total monthly rent roll is at least **~1.2% of the purchase price** — equivalently, price-per-unit needs to land around **80–85× the monthly rent-per-unit**, versus the 100–120× that's typical for a fully-priced turnkey property in these neighborhoods today.
 
-**Maximum purchase price that still passes, by rent per unit:**
+**Maximum purchase price that still passes, by rent per unit** — same columns as the scenario comparison above, so you can compare directly. Every row is the exact breakeven price (the test passes at $0 margin), so read "max price" as a ceiling to stay under, not a target to hit.
 
-| Rent / unit | Triplex — max price | Triplex — max $/unit | Quadplex — max price | Quadplex — max $/unit |
-|---|---|---|---|---|
-| $1,000 (Tier 2) | $242,000 | $80,700 | $328,000 | $82,000 |
-| $1,200 (Tier 2) | $296,000 | $98,700 | $400,000 | $100,000 |
-| $1,400 (Tier 1) | $351,000 | $117,000 | $472,000 | $118,000 |
-| $1,600 (Tier 1) | $405,000 | $135,000 | $544,000 | $136,000 |
+*Triplex:*
 
-Read it as a ceiling: a Tier 2 triplex renting at $1,200/unit passes only below $296,000 — which is exactly why the "typical" $360,000 Tier 2 triplex above failed, and why the $300,000 stretch deal (under the $323,000 ceiling for $1,300/unit rent) passed.
+| Rent/unit | Max price | Max $/unit | Payment/mo | Tenant rent | Your share/mo | Cash needed | DTI |
+|---|---|---|---|---|---|---|---|
+| $1,000 (Tier 2) | $242,500 | $80,800 | $2,250 | $2,000 | $250 | $25,312 | Pass |
+| $1,200 (Tier 2) | $296,500 | $98,800 | $2,700 | $2,400 | $300 | $30,173 | Pass |
+| $1,400 (Tier 1) | $350,500 | $116,900 | $3,150 | $2,800 | $350 | $35,036 | Pass |
+| $1,600 (Tier 1) | $404,500 | $134,900 | $3,600 | $3,200 | $400 | $39,897 | Pass |
+
+*Quadplex:*
+
+| Rent/unit | Max price | Max $/unit | Payment/mo | Tenant rent | Your share/mo | Cash needed | DTI |
+|---|---|---|---|---|---|---|---|
+| $1,000 (Tier 2) | $327,500 | $81,900 | $3,000 | $3,000 | $0 | $33,102 | Pass |
+| $1,200 (Tier 2) | $400,000 | $99,900 | $3,600 | $3,600 | $0 | $39,585 | Pass |
+| $1,400 (Tier 1) | $472,000 | $118,000 | $4,200 | $4,200 | $0 | $46,067 | 50%-only |
+| $1,600 (Tier 1) | $544,000 | $136,000 | $4,800 | $4,800 | $0 | $52,550 | 50%-only |
+
+"Your share/mo" reads $0 at every quadplex breakeven — that's what "passes at exactly 75% of rent = PITI" means: the *other three* units' rent alone covers the payment. "50%-only" clears the 50% DTI ceiling (compensating factors) but not the standard 43%. Cash needed climbs fast at these prices — cross-check against the cash breakdown below before assuming you can swing it.
+
+Read the table as a ceiling: a Tier 2 triplex renting at $1,200/unit passes only below $296,500 — which is exactly why the "typical" $360,000 Tier 2 triplex above failed, and why the $300,000 stretch deal (under the $323,000 ceiling for $1,300/unit rent) passed.
 
 ## Cutting the cash needed: assistance programs & seller concessions
 
@@ -106,6 +119,34 @@ Down payment and closing costs are one-time, negotiable-source costs. Reserves a
 - **Seller concessions: likely, not guaranteed.** Current market conditions favor asking — 2–3% is a realistic opening ask on most listings, with the full 3–4.5% needed here achievable on a property that's sat a while.
 - **TDHCA DPA on a duplex: plausible, needs lender confirmation.** Income appears to clear the limit and duplexes are explicitly named eligible, but purchase price limits, the exact Bexar County income figure, and lender participation all need verifying before counting on it.
 - **Any DPA on a triplex/quadplex: unconfirmed.** Ask directly; don't assume.
+
+## Case study: 7519 Windsor Oaks
+
+A live listing sent for evaluation: a fourplex at 7519 Windsor Oaks, San Antonio, TX 78239 — $460,000 (MLS #1996828, price just cut from $470,000). It's outside the six neighborhoods above, but still north of Hwy 90 and inside Loop 1604 (Northeast San Antonio, between Loop 410 and 1604, near Fort Sam Houston/Windcrest) — fair game.
+
+**The property:** 4,442 sqft, built 1985, fully renovated. 2× 3bd/2ba + 2× 2bd/1ba, all four units currently vacant. Estimated market rent from 78239 zip comps: ~$1,500/mo for the 3bd/2ba units, ~$1,250/mo for the 2bd/1ba units.
+
+**Running the numbers (you occupy a 2bd/1ba unit, the cheaper unit to give up):**
+
+| Metric | Result |
+|---|---|
+| Full PITI + MIP payment | $4,101/mo |
+| Self-sufficiency requirement (75% × all 4 units' rent) | $4,125/mo needed — you have $4,125 |
+| Self-sufficiency test | **Passes — by $24/mo** |
+| DTI, both 43% and 50% | Passes comfortably |
+| Rent from the 3 tenant units | $4,250/mo (2×$1,500 + 1×$1,250) |
+| Your monthly position once fully leased | **+$149/mo in your pocket** |
+| Cash needed (baseline, cash only) | $45,004 |
+| Cash needed (+ seller concession, per above) | $28,404 |
+
+**Read the $24/mo margin correctly: this is not a comfortable pass.** It's within the noise of my rent estimate. If the FHA appraiser's actual Form 1007 rent schedule comes in even $10–15/unit under my $1,250/$1,500 numbers, this property fails the self-sufficiency test outright and becomes ineligible for FHA financing at this price — no amount of personal income fixes that. Two things make this riskier than a typical case: all four units are vacant (no signed leases to anchor the appraiser's opinion), and "fully renovated" usually supports rent at the higher end of a range, but that's the appraiser's call, not mine.
+
+**What this means practically:**
+- Get a real rent opinion before writing an offer — ask an agent for actual comparable rentals in the immediate Windsor Oaks/78239 area, not the zip-wide range used here.
+- Vacancy risk is real and immediate: day one, the full $4,101/mo is owed alone until all three units are leased. Budget for a normal 30–60 day lease-up per unit, not the $149/mo surplus above.
+- The recent $10k price cut is a lever — a seller who just cut price could plausibly agree to a further reduction or a closing-cost concession.
+- Fully renovated cuts FHA appraisal risk (minimum property standards trip up a lot of older multi-unit deals on paint/roofing/safety items), but confirm with an independent inspection rather than the listing description.
+- **Bottom line:** this is the most promising real listing evaluated so far — it clears every test on paper. It's also the one where getting real numbers (rent schedule, condition, seller motivation) before offering matters most, because the margin for error is thin.
 
 ## Where to look: Tier 1 vs. Tier 2
 
